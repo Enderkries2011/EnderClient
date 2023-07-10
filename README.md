@@ -1,4 +1,4 @@
-# EnderClient
+# Ender Client
 A Custom Minecraft Client Made By Enderkries2011
 
 # Why
@@ -18,3 +18,9 @@ We Dont store any data of the players that use our client.
 Also The mods are safe to use (there is a chance it gets flagged on https://isthisarat.com/)
 
 The Staff Of the Discord All Use EnderClient so dont worry its safe.
+
+# Installation 
+Youtube Video: Soon
+
+# Download
+It Should be In the releases Tab. (Addons will also get added to releases) The client comes in a zip file Follow Installation if u dont know how to install.

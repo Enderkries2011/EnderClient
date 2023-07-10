@@ -2,7 +2,7 @@
 A Custom Minecraft Client Made By Enderkries2011
 
 # Why
-I Made this client cause i got ratted on hypixel, This client Uses Anti-Rat Technolegy to Disable Suspisious mods.
+I Made this client cause i got ratted on hypixel, This client Uses Anti-Rat Technolegy to Disable Suspisious mods (mod Expansion).
 
 # What Does It Feature
 Well The Client it self features fps boosting (only. can get better boost using the expansion mod).

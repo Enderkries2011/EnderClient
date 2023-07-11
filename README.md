@@ -1,6 +1,9 @@
 # Ender Client
 A Custom Minecraft Client Made By Enderkries2011
 
+# Important
+Might Be Discontinued only the anti rat mod will be released when done. (only 1 version)
+
 # Why
 I Made this client cause i got ratted on hypixel, This client Uses Anti-Rat Technolegy to Disable Suspisious mods (mod Expansion).
 
